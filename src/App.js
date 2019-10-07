@@ -8,6 +8,9 @@ const AppContainer = styled.div`
   .App-header {
     font-size: 20px;
   }
+  a {
+  color: red;
+  }
 `;
 
 function App() {
